@@ -1,0 +1,23 @@
+# comentário
+.idea/
+.vscode/
+
+# comentário
+composer.lock
+package-lock.json
+
+# comentário
+node_modules
+vendor/
+
+# comentário
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
